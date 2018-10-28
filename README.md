@@ -1,5 +1,7 @@
 # CoffeeTime
 
+A project to build a coffee roasting assistant that will track roast timing & allow recording of tasting notes. I intend to use this to introduce myself to the Angular front end framework, CSS theming & GraphQL.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
 ## Development server
